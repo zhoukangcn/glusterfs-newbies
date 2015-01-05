@@ -1,2 +1,5 @@
-* [概述](introduce/README.md)
-* [GlusterFS简介](introduce/read.md)
+* [概述](introduce/summary.md)
+* [异步及回调机制](introduce/async.md)
+* [冗余(Replication)代码分析](replication/replication.md)
+* [self-heal](replication/self-heal.md)
+* [官方修复的一个bug说明](replication/bug.md)
