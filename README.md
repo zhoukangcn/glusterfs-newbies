@@ -1,1 +1,2 @@
-这是我对GlusterFS代码阅读的一点记录，纯新手。
+这是我对GlusterFS代码阅读的一点记录。
+主要精力放在冗余(Replication)模式上
